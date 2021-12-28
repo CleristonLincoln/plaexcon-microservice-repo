@@ -6,7 +6,7 @@ spring:
   jpa:
     hibernate.ddl-auto: create-drop
     show-sql: true
-   open-in-view: true
+    open-in-view: true
 server:
   port: 8082
 
