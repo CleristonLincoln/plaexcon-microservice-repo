@@ -6,7 +6,7 @@ server:
     enabled: true
     min-response-size: 1
   servlet:
-    context-path: /lm-instala-api
+    context-path: /lm-instala-provider
 spring:
   main:
     banner-mode: console
